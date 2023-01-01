@@ -1,1 +1,1 @@
-# post-install-config
+Coming soon
